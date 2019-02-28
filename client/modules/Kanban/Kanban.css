@@ -1,1 +1,14 @@
 /* Kanban styles */
+.AddLane {
+  width: 95px;
+  height: 30px;
+  background-color: #0086b3;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.AddLane:hover {
+  background-color: #00ace6;
+}
